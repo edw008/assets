@@ -1,0 +1,21 @@
+{
+    "name": "ebrochain",
+    "website": "https://ebrochain.com",
+    "description": "EBRO is an innovative cryptocurrency project committed to solving problems such as high transaction fees, network congestion, and insufficient scalability.",
+    "explorer": "https://etherscan.io/token/0x9754f788af61b0dddcbefc84e2bdcdc67088076d",
+    "symbol": "EBRO",
+    "type": "ERC20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9754f788af61b0dddcbefc84e2bdcdc67088076d",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ebrochaincom"
+        },
+        {
+            "name": "docs",
+            "url": "https://www.ebrochain.com/docs.html"
+        }
+    ]
+}
